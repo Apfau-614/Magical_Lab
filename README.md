@@ -1,6 +1,6 @@
 # lab: sorcery
 
-In this lab you will do true sorcery.
+In this lab you will do **true sorcery**.
 
 <img src=img/magic.jpg width=300px align=right />
 
@@ -26,7 +26,8 @@ In this lab you will do true sorcery.
 > | Occitan | [sortilègi](https://en.wiktionary.org/wiki/sortil%C3%A8gi) |
 > | Latin | [sortilegium](https://en.wiktionary.org/wiki/sortilegium) |
 
-In this lab, you will sort some words.
+In this lab, you will **sort some words**.
+
 You will:
 1. measure much faster the built-in `sorted` function is than the functions you implemented on the last homework assignment.
 1. learn about how to use git submodules to connect multiple git repos together.
@@ -34,7 +35,7 @@ You will:
 You will need a partner for portions of this lab.
 (And recall that you must do partner work either in class or the QCL.)
 
-<img src=img/begin.jpg width=300px />
+<img src=img/begins.jpg width=300px />
 
 ## Tasks
 
