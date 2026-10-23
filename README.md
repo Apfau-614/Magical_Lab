@@ -1,10 +1,40 @@
-# lab: sorting runtimes
+# lab: sorcery
 
-In this lab you will measure just how much faster the built-in `sorted` function is than the functions you implemented on the last homework assignment.
-You will also learn about how to use git submodules to connect multiple git repos together.
+In this lab you will do true sorcery.
+
+<img src=img/magic.jpg width=300px align=right />
+
+> **NOTE:**
+> The English word "sorcery" derives from the Latin word [sortilegium](https://en.wiktionary.org/wiki/sortilegium) = sort + legere (Latin for to read),
+> and so a sorcerer is literally someone who "reads sorted words".
+> Sorting words allowed Medieval sorcerers to lookup information quickly
+> (via binary search-like algorithms),
+> which was a skill that other people thought was "magical".
+>
+> In English, we shifted the sound from t -> c because "sorcery" is easier to say than "sortery".
+> But the etymological connection is more obvious in other Romance languages:
+>
+> | Language | Word for Sorcery |
+> |---|---|
+> | Spanish | [sortilegio](https://en.wiktionary.org/wiki/sortilegio) |
+> | Italian | [sortilegio](https://en.wiktionary.org/wiki/sortilegio#Italian) |
+> | Portuguese | [sortilégio](https://en.wiktionary.org/wiki/sortil%C3%A9gio) |
+> | French | [sortilège](https://en.wiktionary.org/wiki/sortil%C3%A8ge) |
+> | Catalan | [sortilegi](https://en.wiktionary.org/wiki/sortilegi) |
+> | Romanian | [sortilegiu](https://en.wiktionary.org/wiki/sortilegiu) |
+> | Galician | [sortilexio](https://en.wiktionary.org/wiki/sortilexio) |
+> | Occitan | [sortilègi](https://en.wiktionary.org/wiki/sortil%C3%A8gi) |
+> | Latin | [sortilegium](https://en.wiktionary.org/wiki/sortilegium) |
+
+In this lab, you will sort some words.
+You will:
+1. measure much faster the built-in `sorted` function is than the functions you implemented on the last homework assignment.
+1. learn about how to use git submodules to connect multiple git repos together.
 
 You will need a partner for portions of this lab.
 (And recall that you must do partner work either in class or the QCL.)
+
+<img src=img/begin.jpg width=300px />
 
 ## Tasks
 
