@@ -7,7 +7,7 @@ import timeit
 import random
 
 # the following import line will only work if the sorting submodule has been correctly downloaded
-from sorting.sorting import merge_sorted, quick_sorted
+from sorting.src.sorting import merge_sorted, quick_sorted
 
 if __name__ == '__main__':
 

@@ -58,10 +58,6 @@ Instead:
     where `<URL>` is the url to your newly created repo.
 
     > **NOTE:**
-    > In the past I used `$URL` syntax to denote a "variable" that you need to substitute into a command.
-    > Both the `$URL` and `<URL>` style syntaxes are commonly used.
-
-    > **NOTE:**
     > At this point you should ensure you understand what the `git remote` commands are doing fully.
     > I will stop giving these commands to you explicitly in the future.
 
@@ -153,7 +149,7 @@ and copy/paste the resulting table into this README file below this line.
 <!-- add the table here -->
 
 You should observe that python's built-in sort function is 10-100x faster than yours.
-All functions have the same wort-case asymptotic complexity (i.e. $\Theta(n \log n)$),
+All functions have the same wort-case asymptotic complexity (i.e. $\Theta(n \log n)$ ),
 but python's built-in sorting function uses lots of optimization tricks to achieve this extra speedup.
 Native python code is not very good at performing these types of optimizations,
 and so the built-in function is written in the C programming language.
@@ -161,6 +157,8 @@ and so the built-in function is written in the C programming language.
 Functions that must be very fast are generally written in C instead of Python.
 One of the differences between a *computer science* major and a *data science* major is that the CS major focuses on how to *write* these fast functions,
 and the DS major focuses on how to *use* these fast functions to accomplish interesting tasks.
+
+<img src=img/python-c.png width=300px />
 
 <!--
 For fun, compare the runtimes of your sorting algorithms to your partner's to see who has the fastest implementation.
